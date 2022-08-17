@@ -8,9 +8,4 @@ else
 fi
 echo "..."
 sleep 10
-echo "¡Suerte! La necesitarás."
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
+echo "¡Suerte! La necesitarás!!!."
